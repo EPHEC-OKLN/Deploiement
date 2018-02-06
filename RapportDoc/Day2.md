@@ -12,14 +12,12 @@
 - web-db
 
 
-
-
 instalation d'une vm pfsenses
 
 déployement d'une machine xubuntu en vue de la cloner pour les différents services nécessaire
 
 # Problèmes rencontrés (énnoncé du problème + solution)
-problème mapping du clavier du a l'esxi  avec debian 
+problème mapping du clavier dû à l'ESXI avec debian 
 
 solution remplacement debian par vm ubuntu déja configuré
 
