@@ -16,7 +16,7 @@ installation d'une vm pfsense
 
 déployement d'une machine debian en vue de la cloner pour les différents services nécessaire
 
-clonage effectuer
+4 clonage effectuer
 
 # Problèmes rencontrés (énnoncé du problème + solution)
 problème mapping du clavier dû à l'ESXI avec debian 
