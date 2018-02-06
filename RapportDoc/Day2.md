@@ -22,10 +22,13 @@ problème mapping du clavier dû à l'ESXI avec debian
 deployement d'une vm debian configurer depuis worstation
 
 # Motivations des technologies/infrastructures utilisées
+pfsense : pour le firewall
+debian = pour différents services
 
 # Remarques éventuelles
 
+
 # Sources (Important !)
-cerveau de barré (quand il n'est pas barré)
+
  
 https://kb.vmware.com/s/article/1027876
