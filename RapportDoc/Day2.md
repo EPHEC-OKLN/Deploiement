@@ -17,14 +17,16 @@ dmz-group
 
 web-db
 
-
+##
 
 
 instalation d'une vm pfsenses
+
 déployement d'une machine xubuntu en vue de la cloner pour les différents services nécessaire
 
 # Problèmes rencontrés (énnoncé du problème + solution)
 problème mapping du clavier du a l'esxi  avec debian 
+
 solution remplacement debian par vm ubuntu déja configuré
 
 # Motivations des technologies/infrastructures utilisées
@@ -33,4 +35,5 @@ solution remplacement debian par vm ubuntu déja configuré
 
 # Sources (Important !)
 cerveau de barré (quand il n'est pas barré)
+ 
 https://kb.vmware.com/s/article/1027876
