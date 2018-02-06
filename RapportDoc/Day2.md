@@ -12,7 +12,7 @@
 - web-db
 
 
-installation d'une vm pfsenses
+installation d'une vm pfsense
 
 déployement d'une machine xubuntu en vue de la cloner pour les différents services nécessaire
 
