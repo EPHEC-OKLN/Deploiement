@@ -1,21 +1,15 @@
 # Tâches réalisées
-## configuration des vSwitch sur le petit serveur
-wan
+## configuration des vSwitch sur le petit serveur:
+- wan
+- dmz
+- web-db
 
-dmz
-
-web-db
-
-## configuration de leurs ports group
-uz-group
-
-management Network
-
-wan-group
-
-dmz-group
-
-web-db
+## configuration de leurs ports group :
+- uz-group
+- management Network
+- wan-group
+- dmz-group
+- web-db
 
 ##
 
