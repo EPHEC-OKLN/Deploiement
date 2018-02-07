@@ -13,12 +13,7 @@
  
 - Configuration de chaque machine virtuelle  ainsi que l'attribution des adresses IP  
 
-- Activation de DHCP et la configuration des vlan à l'intérieur de ce dernier 
-  
-  Vlan user
-   
-  Vlan Guest
-  
+- Mise en place  du DHCP 
   
 - Installation Debian de base  qui sera dupliqué pour une autre machine  debian-Proxy 
 
