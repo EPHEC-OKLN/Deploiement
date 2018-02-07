@@ -15,11 +15,11 @@
  
 - Configuration de chaque machine virtuelle  ainsi que l'attribution des adresses IP  
 
-- Mise en place du DHCP 
+- Activation du  DHCP 
   
 - Installation Debian de base  qui sera dupliqué pour une autre machine  debian-Proxy 
 
-- Configuration des adresses IP 
+- Activation du DNS 
 
 
 # Problèmes rencontrés (énoncé du problème + solution)
