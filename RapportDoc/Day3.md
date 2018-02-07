@@ -9,6 +9,8 @@
  
  Windows Servers_deploy 
  
+ Windows Servers File
+ 
 - Réunitialisation  des copies 
  
 - Configuration de chaque machine virtuelle  ainsi que l'attribution des adresses IP  
