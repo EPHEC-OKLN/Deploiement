@@ -2,7 +2,7 @@
 
 Modifications des hostnames sur les serveurs  web, DB , RP
 
-Installation à nouveau des serveurs de deploiment, Exchange,AD
+Installation à nouveau des serveurs de déploiement, Exchange,AD
 
 
 
