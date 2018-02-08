@@ -2,6 +2,9 @@
 
 Modifications des hostnames sur les serveurs  web, DB , RP
 
+Installation à nouveau des serveurs de deploiment, Exchange,AD
+
+
 
 # Problèmes rencontrés (énnoncé du problème + solution)
 
