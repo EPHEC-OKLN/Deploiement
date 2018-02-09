@@ -85,6 +85,8 @@ debian = pour différents services
 
 # Sources (Important !)
 https://techmikeny.com/h700-array-guide
+
 https://kb.vmware.com/s/article/1027876
+
 https://technique.arscenic.org/reseau/article/noms-d-hote-hostname-et-noms-de
 
