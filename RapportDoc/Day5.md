@@ -43,15 +43,15 @@ nous avons effectué  l':
  
       Windows Servers File
  
-- Réunitialisation  des copies 
+Réunitialisation  des copies 
  
-- Configuration de chaque machine virtuelle  ainsi que l'attribution des adresses IP  
+Configuration de chaque machine virtuelle  ainsi que l'attribution des adresses IP  
 
-- Activation du  DHCP 
+Activation du  DHCP 
   
-- Installation Debian de base  qui sera dupliqué pour une autre machine  debian-Proxy 
+Installation Debian de base  qui sera dupliqué pour une autre machine  debian-Proxy 
 
-- Activation du DNS 
+Activation du DNS 
 
 ensuite , nous avons fait les Modifications des hostnames sur les serveurs  web, DB , RP et  suite à un problème rencontré 
 
