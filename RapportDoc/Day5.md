@@ -66,7 +66,7 @@ Durant le déploiement, voici les problèmes rencontrés:
 
 - deployement d'une vm debian configurer depuis worstation
 
--le  swapping des fichiers
+- le  swapping des fichiers
 
 - Disfonctionnement de tout les serveus windows dupliqués(SID failed) après le changement de nom de domaine (sysprep qui ne fonctionne pas) =>  nous avons opté de supprimer tout les serveurs windows dupliqués et  réinstaller à nouveau les serveurs .
  
