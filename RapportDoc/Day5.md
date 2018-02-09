@@ -68,7 +68,7 @@ Durant le déploiement, voici les problèmes rencontrés:
 
 -le  swapping des fichiers
 
-- Disfonctionnement de tout les serveus windows dupliqués(SSID failed) après le changement de nom de domaine (syspre qui ne fonctionne pas) =>  nous avons opté de supprimer tout les serveurs windows dupliqués et  réinstaller à nouveau les serveurs .
+- Disfonctionnement de tout les serveus windows dupliqués(SID failed) après le changement de nom de domaine (sysprep qui ne fonctionne pas) =>  nous avons opté de supprimer tout les serveurs windows dupliqués et  réinstaller à nouveau les serveurs .
  
 
 # Motivations des technologies/infrastructures utilisées
