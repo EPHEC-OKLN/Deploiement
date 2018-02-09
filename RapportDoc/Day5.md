@@ -2,7 +2,7 @@
 
 Au départ , nous avons configuré les Raids sur les deux serveurs  (le grand et le petit) et installé un Vmware ESXI sur les deux: Grand serveur (voir les caractéristiques) et un petit serveur ( Voir les caractéristiques).
 
- ## Sur le petit serveur 
+ ## Sur PowerEdge R210
 
 Nous avons installé du pfSense,debian
 
@@ -27,13 +27,13 @@ Nous avons installé du pfSense,debian
   web-db
 
 
-## Sur le grand serveur 
+## Sur PowerEdge R710
 
 nous avons effectué  l': 
 
   Installation d'un Windows Servers 2016 de base dans le HDD
   
-  Installations des 3 autres  à  partir de celui de base dans la SDD:
+  Installations des 4 autres  à  partir de celui de base dans la SDD:
  
       Windows servers_AD
  
