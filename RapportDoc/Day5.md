@@ -29,7 +29,7 @@ Nous avons installé du pfSense,debian
 
 ## Sur le grand serveur 
 
-nous avons mis effectuer  l': 
+nous avons effectué  l': 
 
   Installation d'un Windows Servers 2016 de base dans le HDD
   
