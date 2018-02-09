@@ -1,6 +1,6 @@
 # Tâches réalisées
 
-Au départ , nous avons configuré les Raids sur les deux serveurs  (le grand et le petit) et installé un Vmware ESXI sur les deux: Grand (voir les caractéristiques) et un petit ( Voir les caractéristiques).
+Au départ , nous avons configuré les Raids sur les deux serveurs  (le grand et le petit) et installé un Vmware ESXI sur les deux: Grand serveur (voir les caractéristiques) et un petit serveur ( Voir les caractéristiques).
 
  ## Sur le petit serveur 
 
@@ -53,7 +53,7 @@ Installation Debian de base  qui sera dupliqué pour une autre machine  debian-P
 
 Activation du DNS 
 
-ensuite , nous avons fait les Modifications des hostnames sur les serveurs  web, DB , RP et  suite à un problème rencontré 
+ensuite , nous avons fait les modifications des hostnames sur les serveurs  web, DB , RP et  suite à un problème rencontré 
 
 nous avons réinstallé  à nouveau des serveurs de déploiement, Exchange,AD.
 
